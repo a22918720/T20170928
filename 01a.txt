@@ -25,8 +25,12 @@ public class MainActivity extends AppCompatActivity {
         if (resultCode == RESULT_OK)
         {
             Toast.makeText(MainActivity.this, data.getStringExtra("user_input"), Toast.LENGTH_SHORT).show();
+
         }
 
 
     }
 }
+
+
+ggggggggggg
